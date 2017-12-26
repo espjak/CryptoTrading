@@ -1,0 +1,1 @@
+﻿./merge.ps1 -exportFolder "./2017-12-26_22_00/NormalizedExports/" -out "./2017-12-26_18_00/tradehistory"
